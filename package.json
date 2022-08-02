@@ -19,7 +19,7 @@
   "homepage": "https://github.com/lorenaestrada554/tienda#readme",
   "dependencies": {
     "electron": "^7.1.2",
-    "electron-packager": "^14.1.1",
+    "electron-packager": "^15.5.1",
     "electron-reload": "^1.5.0",
     "events": "^3.0.0",
     "pg": "^7.14.0"
